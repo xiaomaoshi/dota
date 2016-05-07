@@ -1,0 +1,905 @@
+[0001]=====BATTLE START=====
+[0001]Centaur: Health 1100, Mana 200, Armor 4, Attack 55, Money 75.
+[0001]Centaur use HoofStomp make 25 damage to Earth Shaker.
+[0001]Centaur use HoofStomp make 25 damage to Mogul Kahn.
+[0001]Centaur use HOOF STOMP OK.
+[0001]Earth Shaker do GIDDINESS buff.
+[0001]Earth Shaker: Health 1398, Mana 585, Armor 6, Attack 101, Money 825.
+[0001]Mogul Kahn do GIDDINESS buff.
+[0001]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0002]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0002]Centaur physical attack Earth Shaker, make 40 damage.
+[0002]Earth Shaker do physical attack buff.
+[0002]Earth Shaker do GIDDINESS buff.
+[0002]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0002]Mogul Kahn do GIDDINESS buff.
+[0002]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0003]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0003]Earth Shaker do physical attack buff.
+[0003]Earth Shaker do GIDDINESS buff.
+[0003]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0003]Mogul Kahn do GIDDINESS buff.
+[0003]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0004]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0004]Earth Shaker do physical attack buff.
+[0004]Earth Shaker clean physical attack buff.
+[0004]Earth Shaker do GIDDINESS buff.
+[0004]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0004]Mogul Kahn do GIDDINESS buff.
+[0004]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0005]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0005]Earth Shaker do GIDDINESS buff.
+[0005]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0005]Mogul Kahn do GIDDINESS buff.
+[0005]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0006]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0006]Earth Shaker do GIDDINESS buff.
+[0006]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0006]Mogul Kahn do GIDDINESS buff.
+[0006]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0007]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0007]Earth Shaker do GIDDINESS buff.
+[0007]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0007]Mogul Kahn do GIDDINESS buff.
+[0007]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0008]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0008]Earth Shaker do GIDDINESS buff.
+[0008]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0008]Mogul Kahn do GIDDINESS buff.
+[0008]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0009]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0009]Earth Shaker do GIDDINESS buff.
+[0009]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0009]Mogul Kahn do GIDDINESS buff.
+[0009]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0010]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0010]Earth Shaker do GIDDINESS buff.
+[0010]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0010]Mogul Kahn do GIDDINESS buff.
+[0010]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0011]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0011]Earth Shaker do GIDDINESS buff.
+[0011]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0011]Mogul Kahn do GIDDINESS buff.
+[0011]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0012]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0012]Earth Shaker do GIDDINESS buff.
+[0012]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0012]Mogul Kahn do GIDDINESS buff.
+[0012]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0013]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0013]Earth Shaker do GIDDINESS buff.
+[0013]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0013]Mogul Kahn do GIDDINESS buff.
+[0013]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0014]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0014]Earth Shaker do GIDDINESS buff.
+[0014]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0014]Mogul Kahn do GIDDINESS buff.
+[0014]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0015]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0015]Earth Shaker do GIDDINESS buff.
+[0015]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0015]Mogul Kahn do GIDDINESS buff.
+[0015]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0016]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0016]Earth Shaker do GIDDINESS buff.
+[0016]Earth Shaker: Health 1358, Mana 585, Armor 6, Attack 101, Money 825.
+[0016]Mogul Kahn do GIDDINESS buff.
+[0016]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0017]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0017]Centaur physical attack Earth Shaker, make 40 damage.
+[0017]Earth Shaker do physical attack buff.
+[0017]Earth Shaker do GIDDINESS buff.
+[0017]Earth Shaker: Health 1318, Mana 585, Armor 6, Attack 101, Money 825.
+[0017]Mogul Kahn do GIDDINESS buff.
+[0017]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0018]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0018]Earth Shaker do physical attack buff.
+[0018]Earth Shaker do GIDDINESS buff.
+[0018]Earth Shaker: Health 1318, Mana 585, Armor 6, Attack 101, Money 825.
+[0018]Mogul Kahn do GIDDINESS buff.
+[0018]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0019]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0019]Earth Shaker do physical attack buff.
+[0019]Earth Shaker clean physical attack buff.
+[0019]Earth Shaker do GIDDINESS buff.
+[0019]Earth Shaker: Health 1318, Mana 585, Armor 6, Attack 101, Money 825.
+[0019]Mogul Kahn do GIDDINESS buff.
+[0019]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0020]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0020]Earth Shaker do GIDDINESS buff.
+[0020]Earth Shaker: Health 1318, Mana 585, Armor 6, Attack 101, Money 825.
+[0020]Mogul Kahn do GIDDINESS buff.
+[0020]Mogul Kahn: Health 1341, Mana 572, Armor 6, Attack 92, Money 825.
+[0021]Centaur: Health 1100, Mana 100, Armor 4, Attack 55, Money 75.
+[0021]Earth Shaker do GIDDINESS buff.
+[0021]Earth Shaker clean GIDDINESS buff.
+[0021]Earth Shaker: Health 1318, Mana 585, Armor 6, Attack 101, Money 825.
+[0021]Earth Shaker use ES_A make 93 damage to Centaur.
+[0021]Earth Shaker use ES_A make 93 damage to Mogul Kahn.
+[0021]Earth Shaker use ES_E OK.
+[0021]Mogul Kahn do GIDDINESS buff.
+[0021]Mogul Kahn clean GIDDINESS buff.
+[0021]Mogul Kahn do ES_A buff.
+[0021]Mogul Kahn: Health 1248, Mana 572, Armor 6, Attack 92, Money 825.
+[0022]Centaur do ES_A buff.
+[0022]Centaur: Health 1007, Mana 100, Armor 4, Attack 55, Money 75.
+[0022]Earth Shaker do ES_E buff.
+[0022]Earth Shaker: Health 1318, Mana 535, Armor 6, Attack 505, Money 825.
+[0022]Earth Shaker physical attack Mogul Kahn, make 371 damage.
+[0022]Mogul Kahn do physical attack buff.
+[0022]Mogul Kahn do ES_A buff.
+[0022]Mogul Kahn: Health 877, Mana 572, Armor 6, Attack 92, Money 825.
+[0022]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0023]Centaur do ES_A buff.
+[0023]Centaur: Health 1007, Mana 100, Armor 4, Attack 55, Money 75.
+[0023]Earth Shaker: Health 1318, Mana 535, Armor 6, Attack 101, Money 825.
+[0023]Earth Shaker use ES_F make 206 damage to Mogul Kahn.
+[0023]Earth Shaker use ES_A make 93 damage to Centaur.
+[0023]Earth Shaker use ES_A make 93 damage to Mogul Kahn.
+[0023]Earth Shaker use ES_F OK.
+[0023]Mogul Kahn do ES_A buff.
+[0023]Mogul Kahn do ES_F buff.
+[0023]Mogul Kahn: Health 578, Mana 572, Armor 6, Attack 92, Money 825.
+[0024]Centaur do ES_A buff.
+[0024]Centaur: Health 914, Mana 100, Armor 4, Attack 55, Money 75.
+[0024]Earth Shaker: Health 1318, Mana 365, Armor 6, Attack 101, Money 825.
+[0024]Earth Shaker use ES_C make 198 damage to Centaur.
+[0024]Earth Shaker use ES_C make 198 damage to Mogul Kahn.
+[0024]Earth Shaker use ES_A make 93 damage to Centaur.
+[0024]Earth Shaker use ES_A make 93 damage to Mogul Kahn.
+[0024]Earth Shaker use ES_C OK.
+[0024]Mogul Kahn do ES_A buff.
+[0024]Mogul Kahn do ES_F buff.
+[0024]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0025]Centaur do ES_A buff.
+[0025]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0025]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0025]Mogul Kahn do ES_A buff.
+[0025]Mogul Kahn do ES_F buff.
+[0025]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0026]Centaur do ES_A buff.
+[0026]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0026]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0026]Mogul Kahn do ES_A buff.
+[0026]Mogul Kahn do ES_F buff.
+[0026]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0027]Centaur do ES_A buff.
+[0027]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0027]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0027]Mogul Kahn do ES_A buff.
+[0027]Mogul Kahn do ES_F buff.
+[0027]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0028]Centaur do ES_A buff.
+[0028]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0028]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0028]Mogul Kahn do ES_A buff.
+[0028]Mogul Kahn do ES_F buff.
+[0028]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0029]Centaur do ES_A buff.
+[0029]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0029]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0029]Mogul Kahn do ES_A buff.
+[0029]Mogul Kahn do ES_F buff.
+[0029]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0030]Centaur do ES_A buff.
+[0030]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0030]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0030]Mogul Kahn do ES_A buff.
+[0030]Mogul Kahn do ES_F buff.
+[0030]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0031]Centaur do ES_A buff.
+[0031]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0031]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0031]Mogul Kahn do ES_A buff.
+[0031]Mogul Kahn do ES_F buff.
+[0031]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0032]Centaur do ES_A buff.
+[0032]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0032]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0032]Mogul Kahn do ES_A buff.
+[0032]Mogul Kahn do ES_F buff.
+[0032]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0033]Centaur do ES_A buff.
+[0033]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0033]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0033]Mogul Kahn do ES_A buff.
+[0033]Mogul Kahn do ES_F buff.
+[0033]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0034]Centaur do ES_A buff.
+[0034]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0034]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0034]Mogul Kahn do ES_A buff.
+[0034]Mogul Kahn do ES_F buff.
+[0034]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0035]Centaur do ES_A buff.
+[0035]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0035]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0035]Mogul Kahn do ES_A buff.
+[0035]Mogul Kahn do ES_F buff.
+[0035]Mogul Kahn: Health 287, Mana 572, Armor 6, Attack 92, Money 825.
+[0036]Centaur do ES_A buff.
+[0036]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0036]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0036]Earth Shaker physical attack Mogul Kahn, make 74 damage.
+[0036]Mogul Kahn do physical attack buff.
+[0036]Mogul Kahn do ES_A buff.
+[0036]Mogul Kahn do ES_F buff.
+[0036]Mogul Kahn: Health 213, Mana 572, Armor 6, Attack 92, Money 825.
+[0036]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0037]Centaur do ES_A buff.
+[0037]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0037]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0037]Mogul Kahn do ES_A buff.
+[0037]Mogul Kahn do ES_F buff.
+[0037]Mogul Kahn: Health 213, Mana 572, Armor 6, Attack 92, Money 825.
+[0038]Centaur do ES_A buff.
+[0038]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0038]Earth Shaker: Health 1318, Mana 100, Armor 6, Attack 101, Money 825.
+[0038]Mogul Kahn do ES_A buff.
+[0038]Mogul Kahn do ES_F buff.
+[0038]Mogul Kahn: Health 213, Mana 572, Armor 6, Attack 92, Money 825.
+[0039]Centaur do ES_A buff.
+[0039]Centaur clean ES_A buff.
+[0039]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0039]Centaur physical attack Earth Shaker, make 40 damage.
+[0039]Earth Shaker do physical attack buff.
+[0039]Earth Shaker: Health 1278, Mana 100, Armor 6, Attack 101, Money 825.
+[0039]Mogul Kahn do ES_A buff.
+[0039]Mogul Kahn clean ES_A buff.
+[0039]Mogul Kahn do ES_F buff.
+[0039]Mogul Kahn: Health 213, Mana 572, Armor 6, Attack 92, Money 825.
+[0040]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0040]Earth Shaker do physical attack buff.
+[0040]Earth Shaker: Health 1278, Mana 100, Armor 6, Attack 101, Money 825.
+[0040]Mogul Kahn do ES_F buff.
+[0040]Mogul Kahn clean ES_F buff.
+[0040]Mogul Kahn: Health 213, Mana 572, Armor 6, Attack 92, Money 825.
+[0040]Mogul Kahn use Xiaomaoshi Eggs of Evil to Earth Shaker.
+[0040]Mogul Kahn use Xiaomaoshi Eggs of Evil OK.
+[0041]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0041]Earth Shaker do physical attack buff.
+[0041]Earth Shaker clean physical attack buff.
+[0041]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0041]Earth Shaker: Health 1278, Mana 100, Armor 6, Attack 101, Money 825.
+[0041]Mogul Kahn: Health 213, Mana 522, Armor 6, Attack 92, Money 825.
+[0041]Mogul Kahn use AXE_R OK.
+[0042]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0042]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0042]Earth Shaker: Health 1278, Mana 100, Armor 6, Attack 101, Money 825.
+[0042]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0042]Mogul Kahn physical attack Earth Shaker, make 67 damage.
+[0043]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0043]Earth Shaker do physical attack buff.
+[0043]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0043]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0043]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0044]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0044]Earth Shaker do physical attack buff.
+[0044]Earth Shaker clean physical attack buff.
+[0044]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0044]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0044]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0045]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0045]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0045]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0045]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0046]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0046]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0046]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0046]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0047]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0047]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0047]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0047]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0048]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0048]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0048]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0048]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0049]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0049]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0049]Earth Shaker: Health 1211, Mana 100, Armor 6, Attack 101, Money 825.
+[0049]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0050]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0050]Earth Shaker physical attack Earth Shaker, make 74 damage.
+[0050]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0050]Earth Shaker: Health 1137, Mana 100, Armor 6, Attack 101, Money 825.
+[0050]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0051]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0051]Earth Shaker do physical attack buff.
+[0051]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0051]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0051]Earth Shaker do AXE_R buff.
+[0051]Earth Shaker: Health 1107, Mana 100, Armor 6, Attack 101, Money 825.
+[0051]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0052]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0052]Earth Shaker do physical attack buff.
+[0052]Earth Shaker clean physical attack buff.
+[0052]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0052]Earth Shaker: Health 1107, Mana 100, Armor 6, Attack 101, Money 825.
+[0052]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0053]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0053]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0053]Earth Shaker: Health 1107, Mana 100, Armor 6, Attack 101, Money 825.
+[0053]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0054]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0054]Centaur physical attack Earth Shaker, make 40 damage.
+[0054]Earth Shaker do physical attack buff.
+[0054]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0054]Earth Shaker: Health 1067, Mana 100, Armor 6, Attack 101, Money 825.
+[0054]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0054]Mogul Kahn physical attack Earth Shaker, make 67 damage.
+[0055]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0055]Earth Shaker do physical attack buff.
+[0055]Earth Shaker do physical attack buff.
+[0055]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0055]Earth Shaker: Health 1000, Mana 100, Armor 6, Attack 101, Money 825.
+[0055]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0056]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0056]Earth Shaker do physical attack buff.
+[0056]Earth Shaker clean physical attack buff.
+[0056]Earth Shaker do physical attack buff.
+[0056]Earth Shaker clean physical attack buff.
+[0056]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0056]Earth Shaker: Health 1000, Mana 100, Armor 6, Attack 101, Money 825.
+[0056]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0057]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0057]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0057]Earth Shaker: Health 1000, Mana 100, Armor 6, Attack 101, Money 825.
+[0057]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0058]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0058]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0058]Earth Shaker: Health 1000, Mana 100, Armor 6, Attack 101, Money 825.
+[0058]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0059]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0059]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0059]Earth Shaker: Health 1000, Mana 100, Armor 6, Attack 101, Money 825.
+[0059]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0060]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0060]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0060]Earth Shaker: Health 1000, Mana 100, Armor 6, Attack 101, Money 825.
+[0060]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0061]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0061]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0061]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0061]Earth Shaker do AXE_R buff.
+[0061]Earth Shaker: Health 970, Mana 100, Armor 6, Attack 101, Money 825.
+[0061]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0062]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0062]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0062]Earth Shaker: Health 970, Mana 100, Armor 6, Attack 101, Money 825.
+[0062]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0063]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0063]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0063]Earth Shaker: Health 970, Mana 100, Armor 6, Attack 101, Money 825.
+[0063]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0064]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0064]Earth Shaker physical attack Earth Shaker, make 74 damage.
+[0064]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0064]Earth Shaker: Health 896, Mana 100, Armor 6, Attack 101, Money 825.
+[0064]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0065]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0065]Earth Shaker do physical attack buff.
+[0065]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0065]Earth Shaker: Health 896, Mana 100, Armor 6, Attack 101, Money 825.
+[0065]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0066]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0066]Earth Shaker do physical attack buff.
+[0066]Earth Shaker clean physical attack buff.
+[0066]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0066]Earth Shaker: Health 896, Mana 100, Armor 6, Attack 101, Money 825.
+[0066]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0066]Mogul Kahn physical attack Earth Shaker, make 67 damage.
+[0067]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0067]Earth Shaker do physical attack buff.
+[0067]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0067]Earth Shaker: Health 829, Mana 100, Armor 6, Attack 101, Money 825.
+[0067]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0068]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0068]Earth Shaker do physical attack buff.
+[0068]Earth Shaker clean physical attack buff.
+[0068]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0068]Earth Shaker: Health 829, Mana 100, Armor 6, Attack 101, Money 825.
+[0068]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0069]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0069]Centaur physical attack Earth Shaker, make 40 damage.
+[0069]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0069]Earth Shaker do physical attack buff.
+[0069]Earth Shaker: Health 789, Mana 100, Armor 6, Attack 101, Money 825.
+[0069]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0070]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0070]Earth Shaker do Xiaomaoshi Eggs of Evil buff.
+[0070]Earth Shaker clean Xiaomaoshi Eggs of Evil buff.
+[0070]Earth Shaker do physical attack buff.
+[0070]Earth Shaker: Health 789, Mana 100, Armor 6, Attack 101, Money 825.
+[0070]Earth Shaker use Eul Scepter of Divinity to Mogul Kahn.
+[0070]Earth Shaker use Eul Scepter of Divinity OK.
+[0070]Mogul Kahn is under EUL effect.
+[0070]Mogul Kahn do Eul Scepter of Divinity buff.
+[0070]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0071]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0071]Earth Shaker do physical attack buff.
+[0071]Earth Shaker clean physical attack buff.
+[0071]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0071]Earth Shaker do AXE_R buff.
+[0071]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0071]Mogul Kahn is under EUL effect.
+[0071]Mogul Kahn do Eul Scepter of Divinity buff.
+[0071]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0072]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0072]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0072]Mogul Kahn is under EUL effect.
+[0072]Mogul Kahn do Eul Scepter of Divinity buff.
+[0072]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0073]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0073]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0073]Mogul Kahn is under EUL effect.
+[0073]Mogul Kahn do Eul Scepter of Divinity buff.
+[0073]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0074]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0074]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0074]Mogul Kahn is under EUL effect.
+[0074]Mogul Kahn do Eul Scepter of Divinity buff.
+[0074]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0075]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0075]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0075]Mogul Kahn is under EUL effect.
+[0075]Mogul Kahn do Eul Scepter of Divinity buff.
+[0075]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0076]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0076]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0076]Mogul Kahn is under EUL effect.
+[0076]Mogul Kahn do Eul Scepter of Divinity buff.
+[0076]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0077]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0077]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0077]Mogul Kahn is under EUL effect.
+[0077]Mogul Kahn do Eul Scepter of Divinity buff.
+[0077]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0078]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0078]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0078]Mogul Kahn is under EUL effect.
+[0078]Mogul Kahn do Eul Scepter of Divinity buff.
+[0078]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0079]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0079]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0079]Mogul Kahn is under EUL effect.
+[0079]Mogul Kahn do Eul Scepter of Divinity buff.
+[0079]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0080]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0080]Earth Shaker: Health 759, Mana 25, Armor 6, Attack 101, Money 825.
+[0080]Mogul Kahn is under EUL effect.
+[0080]Mogul Kahn do Eul Scepter of Divinity buff.
+[0080]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0081]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0081]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0081]Earth Shaker do AXE_R buff.
+[0081]Earth Shaker: Health 729, Mana 25, Armor 6, Attack 101, Money 825.
+[0081]Mogul Kahn is under EUL effect.
+[0081]Mogul Kahn do Eul Scepter of Divinity buff.
+[0081]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0082]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0082]Earth Shaker: Health 729, Mana 25, Armor 6, Attack 101, Money 825.
+[0082]Mogul Kahn is under EUL effect.
+[0082]Mogul Kahn do Eul Scepter of Divinity buff.
+[0082]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0083]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0083]Earth Shaker: Health 729, Mana 25, Armor 6, Attack 101, Money 825.
+[0083]Mogul Kahn is under EUL effect.
+[0083]Mogul Kahn do Eul Scepter of Divinity buff.
+[0083]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0084]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0084]Centaur physical attack Earth Shaker, make 40 damage.
+[0084]Earth Shaker do physical attack buff.
+[0084]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0084]Mogul Kahn is under EUL effect.
+[0084]Mogul Kahn do Eul Scepter of Divinity buff.
+[0084]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0085]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0085]Earth Shaker do physical attack buff.
+[0085]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0085]Mogul Kahn is under EUL effect.
+[0085]Mogul Kahn do Eul Scepter of Divinity buff.
+[0085]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0086]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0086]Earth Shaker do physical attack buff.
+[0086]Earth Shaker clean physical attack buff.
+[0086]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0086]Mogul Kahn is under EUL effect.
+[0086]Mogul Kahn do Eul Scepter of Divinity buff.
+[0086]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0087]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0087]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0087]Mogul Kahn is under EUL effect.
+[0087]Mogul Kahn do Eul Scepter of Divinity buff.
+[0087]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0088]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0088]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0088]Mogul Kahn is under EUL effect.
+[0088]Mogul Kahn do Eul Scepter of Divinity buff.
+[0088]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0089]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0089]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0089]Mogul Kahn is under EUL effect.
+[0089]Mogul Kahn do Eul Scepter of Divinity buff.
+[0089]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0090]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0090]Earth Shaker: Health 689, Mana 25, Armor 6, Attack 101, Money 825.
+[0090]Mogul Kahn is under EUL effect.
+[0090]Mogul Kahn do Eul Scepter of Divinity buff.
+[0090]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0091]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0091]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0091]Earth Shaker do AXE_R buff.
+[0091]Earth Shaker: Health 659, Mana 25, Armor 6, Attack 101, Money 825.
+[0091]Mogul Kahn is under EUL effect.
+[0091]Mogul Kahn do Eul Scepter of Divinity buff.
+[0091]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0092]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0092]Earth Shaker: Health 659, Mana 25, Armor 6, Attack 101, Money 825.
+[0092]Mogul Kahn is under EUL effect.
+[0092]Mogul Kahn do Eul Scepter of Divinity buff.
+[0092]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0093]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0093]Earth Shaker: Health 659, Mana 25, Armor 6, Attack 101, Money 825.
+[0093]Mogul Kahn is under EUL effect.
+[0093]Mogul Kahn do Eul Scepter of Divinity buff.
+[0093]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0094]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0094]Earth Shaker: Health 659, Mana 25, Armor 6, Attack 101, Money 825.
+[0094]Mogul Kahn is under EUL effect.
+[0094]Mogul Kahn do Eul Scepter of Divinity buff.
+[0094]Mogul Kahn: Health 213, Mana 447, Armor 6, Attack 92, Money 825.
+[0095]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0095]Earth Shaker: Health 659, Mana 25, Armor 6, Attack 101, Money 825.
+[0095]Mogul Kahn is under EUL effect.
+[0095]Mogul Kahn do Eul Scepter of Divinity buff.
+[0095]Mogul Kahn is clean EUL effect.
+[0095]Earth Shaker's EUL make 37 damage to Mogul Kahn.
+[0095]Mogul Kahn clean Eul Scepter of Divinity buff.
+[0095]Mogul Kahn: Health 176, Mana 447, Armor 6, Attack 92, Money 825.
+[0095]Mogul Kahn use Guinsoos Scythe of Vyse to Earth Shaker.
+[0095]Mogul Kahn use Guinsoos Scythe of Vyse OK.
+[0096]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0096]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0096]Earth Shaker: Health 659, Mana 25, Armor 6, Attack 101, Money 825.
+[0096]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0096]Mogul Kahn physical attack Earth Shaker, make 67 damage.
+[0097]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0097]Earth Shaker do physical attack buff.
+[0097]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0097]Earth Shaker: Health 592, Mana 25, Armor 6, Attack 101, Money 825.
+[0097]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0098]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0098]Earth Shaker do physical attack buff.
+[0098]Earth Shaker clean physical attack buff.
+[0098]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0098]Earth Shaker: Health 592, Mana 25, Armor 6, Attack 101, Money 825.
+[0098]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0099]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0099]Centaur physical attack Earth Shaker, make 40 damage.
+[0099]Earth Shaker do physical attack buff.
+[0099]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0099]Earth Shaker: Health 552, Mana 25, Armor 6, Attack 101, Money 825.
+[0099]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0100]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0100]Earth Shaker do physical attack buff.
+[0100]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0100]Earth Shaker: Health 552, Mana 25, Armor 6, Attack 101, Money 825.
+[0100]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0101]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0101]Earth Shaker do physical attack buff.
+[0101]Earth Shaker clean physical attack buff.
+[0101]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0101]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0101]Earth Shaker do AXE_R buff.
+[0101]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0101]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0102]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0102]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0102]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0102]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0103]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0103]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0103]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0103]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0104]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0104]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0104]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0104]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0105]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0105]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0105]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0105]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0106]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0106]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0106]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0106]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0107]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0107]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0107]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0107]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0108]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0108]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0108]Earth Shaker: Health 522, Mana 25, Armor 6, Attack 101, Money 825.
+[0108]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0108]Mogul Kahn physical attack Earth Shaker, make 67 damage.
+[0109]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0109]Earth Shaker do physical attack buff.
+[0109]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0109]Earth Shaker: Health 455, Mana 25, Armor 6, Attack 101, Money 825.
+[0109]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0110]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0110]Earth Shaker do physical attack buff.
+[0110]Earth Shaker clean physical attack buff.
+[0110]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0110]Earth Shaker: Health 455, Mana 25, Armor 6, Attack 101, Money 825.
+[0110]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0111]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0111]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0111]Mogul Kahn's buff AXE_R make 30 damage to Earth Shaker.
+[0111]Earth Shaker do AXE_R buff.
+[0111]Earth Shaker: Health 425, Mana 25, Armor 6, Attack 101, Money 825.
+[0111]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0112]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0112]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0112]Earth Shaker: Health 425, Mana 25, Armor 6, Attack 101, Money 825.
+[0112]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0113]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0113]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0113]Earth Shaker: Health 425, Mana 25, Armor 6, Attack 101, Money 825.
+[0113]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0114]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0114]Centaur physical attack Earth Shaker, make 40 damage.
+[0114]Earth Shaker do physical attack buff.
+[0114]Earth Shaker do Guinsoos Scythe of Vyse buff.
+[0114]Earth Shaker: Health 385, Mana 25, Armor 6, Attack 101, Money 825.
+[0114]Mogul Kahn: Health 176, Mana 347, Armor 6, Attack 92, Money 825.
+[0114]Mogul Kahn use AXE_C make 400 damage to Earth Shaker.
+[0114]Mogul Kahn use AXE_C OK.
+[0114]ignore the cd of skill AXE_C.
+[0115]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0115]Earth Shaker is dead!
+[0115]Mogul Kahn killed Earth Shaker!
+[0115]Mogul Kahn: Health 176, Mana 147, Armor 6, Attack 92, Money 1050.
+[0115]Mogul Kahn use AXE_E OK.
+[0116]Centaur do AXE_E buff.
+[0116]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0116]Mogul Kahn do AXE_E buff.
+[0116]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0117]Centaur do AXE_E buff.
+[0117]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0117]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0118]Centaur do AXE_E buff.
+[0118]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0118]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0119]Centaur do AXE_E buff.
+[0119]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0119]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0120]Centaur do AXE_E buff.
+[0120]Centaur: Health 623, Mana 100, Armor 4, Attack 55, Money 75.
+[0120]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0120]Mogul Kahn physical attack Centaur, make 74 damage.
+[0121]Centaur do physical attack buff.
+[0121]Centaur do AXE_E buff.
+[0121]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0121]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0122]Centaur do physical attack buff.
+[0122]Centaur clean physical attack buff.
+[0122]Centaur do AXE_E buff.
+[0122]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0122]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0123]Centaur do AXE_E buff.
+[0123]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0123]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0124]Centaur do AXE_E buff.
+[0124]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0124]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0125]Centaur do AXE_E buff.
+[0125]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0125]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0126]Centaur do AXE_E buff.
+[0126]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0126]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0127]Centaur do AXE_E buff.
+[0127]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0127]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0128]Centaur do AXE_E buff.
+[0128]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0128]Mogul Kahn: Health 176, Mana 37, Armor 46, Attack 92, Money 1050.
+[0129]Centaur do AXE_E buff.
+[0129]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0129]Centaur physical attack Mogul Kahn, make 14 damage.
+[0129]Mogul Kahn do physical attack buff.
+[0129]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0129]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0130]Centaur do AXE_E buff.
+[0130]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0130]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0131]Centaur do AXE_E buff.
+[0131]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0131]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0132]Centaur do AXE_E buff.
+[0132]Centaur: Health 549, Mana 100, Armor 4, Attack 55, Money 75.
+[0132]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0132]Mogul Kahn physical attack Centaur, make 74 damage.
+[0133]Centaur do physical attack buff.
+[0133]Centaur do AXE_E buff.
+[0133]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0133]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0134]Centaur do physical attack buff.
+[0134]Centaur clean physical attack buff.
+[0134]Centaur do AXE_E buff.
+[0134]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0134]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0135]Centaur do AXE_E buff.
+[0135]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0135]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0136]Centaur do AXE_E buff.
+[0136]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0136]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0137]Centaur do AXE_E buff.
+[0137]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0137]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0138]Centaur do AXE_E buff.
+[0138]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0138]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0139]Centaur do AXE_E buff.
+[0139]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0139]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0140]Centaur do AXE_E buff.
+[0140]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0140]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0141]Centaur do AXE_E buff.
+[0141]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0141]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0142]Centaur do AXE_E buff.
+[0142]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0142]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0143]Centaur do AXE_E buff.
+[0143]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0143]Mogul Kahn: Health 162, Mana 37, Armor 46, Attack 92, Money 1050.
+[0144]Centaur do AXE_E buff.
+[0144]Centaur: Health 475, Mana 100, Armor 4, Attack 55, Money 75.
+[0144]Centaur physical attack Mogul Kahn, make 14 damage.
+[0144]Mogul Kahn do physical attack buff.
+[0144]Mogul Kahn: Health 148, Mana 37, Armor 46, Attack 92, Money 1050.
+[0144]Mogul Kahn use AXE_X make 165 damage to Centaur.
+[0144]Mogul Kahn use AXE_X OK.
+[0145]Centaur do AXE_E buff.
+[0145]Centaur: Health 310, Mana 100, Armor 4, Attack 55, Money 75.
+[0145]Mogul Kahn: Health 148, Mana 37, Armor 46, Attack 92, Money 1050.
+[0145]Mogul Kahn physical attack Centaur, make 74 damage.
+[0146]Centaur do AXE_E buff.
+[0146]Centaur do physical attack buff.
+[0146]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0146]Mogul Kahn: Health 148, Mana 37, Armor 46, Attack 92, Money 1050.
+[0147]Centaur do AXE_E buff.
+[0147]Centaur clean AXE_E buff.
+[0147]Centaur do physical attack buff.
+[0147]Centaur clean physical attack buff.
+[0147]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0147]Mogul Kahn clean AXE_E buff.
+[0147]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0148]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0148]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0149]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0149]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0150]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0150]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0151]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0151]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0152]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0152]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0153]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0153]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0154]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0154]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0155]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0155]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0156]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0156]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0157]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0157]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0157]Mogul Kahn physical attack Centaur, make 74 damage.
+[0158]Centaur do physical attack buff.
+[0158]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0158]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
+[0159]Centaur do physical attack buff.
+[0159]Centaur clean physical attack buff.
+[0159]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0159]Centaur physical attack Mogul Kahn, make 40 damage.
+[0159]Mogul Kahn do physical attack buff.
+[0159]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0159]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0160]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0160]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0161]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0161]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0162]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0162]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0163]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0163]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0164]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0164]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0165]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0165]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0166]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0166]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0167]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0167]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0168]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0168]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0169]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0169]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0169]Mogul Kahn physical attack Centaur, make 74 damage.
+[0170]Centaur do physical attack buff.
+[0170]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0170]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0171]Centaur do physical attack buff.
+[0171]Centaur clean physical attack buff.
+[0171]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0171]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0172]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0172]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0173]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0173]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
+[0174]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0174]Centaur physical attack Mogul Kahn, make 40 damage.
+[0174]Mogul Kahn do physical attack buff.
+[0174]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0174]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0175]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0175]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0176]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0176]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0177]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0177]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0178]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0178]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0179]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0179]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0180]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0180]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0181]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0181]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0181]Mogul Kahn physical attack Centaur, make 74 damage.
+[0182]Centaur do physical attack buff.
+[0182]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0182]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0183]Centaur do physical attack buff.
+[0183]Centaur clean physical attack buff.
+[0183]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0183]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0184]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0184]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0185]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0185]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0186]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0186]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0187]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0187]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0188]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0188]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
+[0189]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0189]Centaur physical attack Mogul Kahn, make 40 damage.
+[0189]Mogul Kahn do physical attack buff.
+[0189]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
+[0189]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0190]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0190]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
+[0191]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0191]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
+[0192]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0192]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
+[0193]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0193]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
+[0193]Mogul Kahn physical attack Centaur, make 74 damage.
+[0194]Centaur is dead!
+[0194]Mogul Kahn killed Centaur!
+[0194]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
+[0195]Clean Centaur.
+[0195]Clean Earth Shaker.
+[0195]Clean Mogul Kahn.
+[0195]=====BATTLE OVER=====
