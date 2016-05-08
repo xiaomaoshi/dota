@@ -38,6 +38,7 @@
 #define HERO_GET_MONEY(n) \
     (HERO_HEAD_MONEY + (n) * HERO_SERIAL_KILLING_BONUS)
 
+int wilders_death(LIFE_S *self);
 int wilders_kill(LIFE_S *self);
 int default_attack(LIFE_S *self);
 int default_skill(LIFE_S *self, unsigned int id);

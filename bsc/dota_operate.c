@@ -567,3 +567,23 @@ int wilders_kill(LIFE_S *self)
     }
     return DOTA_SUCCESS;
 }
+
+
+int wilders_death(LIFE_S *self)
+{
+    DOTA_RETURN_IF_NULL(self, ERR_NULL_POINTER);
+    DOTA_RETURN_IF((LIFE_ZOMBIE != self->life_state), ERR_WRONG_OBJ);
+
+    clean_all_buff(self);
+
+    RESET_HAMM(&(self->cur_hmaa));
+
+    if (self == self->murderer) {
+        TRACE_BATTLE("%s is suicide!\n", self->name);
+    } else {
+        TRACE_BATTLE("%s is dead!\n", self->name);
+    }
+
+    self->life_state = LIFE_DEAD;
+    return DOTA_SUCCESS;
+}

@@ -187,7 +187,7 @@ SKILL_S centaur_skill[] = {
 
 
 OPERATE_S centaur_op = {
-    default_death,
+    wilders_death,
     default_rebirth,
     wilders_kill,
     default_attack,
