@@ -392,11 +392,9 @@ int es_init(LIFE_S *self)
     INIT_LIST_HEAD(&(self->buff_list));
     INIT_LIST_HEAD(&(self->life_list));
 
-    self->kill_queue = (QUEUE_S *)malloc(sizeof(QUEUE_S));
+    self->kill_queue = queue_init(TMP_SIZE);
     if (!self->kill_queue)
         return ERR_MALLOC_FAILED;
-
-    queue_init(self->kill_queue, TMP_SIZE);
 
     /* 把道具真正的装备上 */
     init_box(self);

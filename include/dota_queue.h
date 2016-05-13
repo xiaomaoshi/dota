@@ -29,14 +29,24 @@ typedef struct
     unsigned int head, tail;
 }QUEUE_S;
 
-static inline void queue_init(QUEUE_S *queue, unsigned int size)
+static inline QUEUE_S *queue_init(unsigned int size)
 {
+    QUEUE_S *queue;
+
+    queue = (QUEUE_S *)malloc(sizeof(QUEUE_S));
+    if (!queue) {
+        return NULL;
+    }
+
     queue->data = (void **)malloc((size + 1) * sizeof(void *));
-    if (!queue->data)
-        return;
+    if (!queue->data) {
+        DOTA_FREE(queue);
+        return NULL;
+    }
 
     queue->head = queue->tail = 0;
     queue->size = size;
+    return queue;
 }
 
 static inline void queue_free(QUEUE_S *queue)

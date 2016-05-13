@@ -765,141 +765,139 @@
 [0144]Centaur physical attack Mogul Kahn, make 14 damage.
 [0144]Mogul Kahn do physical attack buff.
 [0144]Mogul Kahn: Health 148, Mana 37, Armor 46, Attack 92, Money 1050.
-[0144]Mogul Kahn use AXE_X make 165 damage to Centaur.
-[0144]Mogul Kahn use AXE_X OK.
+[0144]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0144]Mogul Kahn physical attack Centaur, make 74 damage.
+[0145]Centaur do physical attack buff.
 [0145]Centaur do AXE_E buff.
-[0145]Centaur: Health 310, Mana 100, Armor 4, Attack 55, Money 75.
+[0145]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0145]Mogul Kahn: Health 148, Mana 37, Armor 46, Attack 92, Money 1050.
-[0145]Mogul Kahn physical attack Centaur, make 74 damage.
-[0146]Centaur do AXE_E buff.
 [0146]Centaur do physical attack buff.
-[0146]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0146]Centaur clean physical attack buff.
+[0146]Centaur do AXE_E buff.
+[0146]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0146]Mogul Kahn: Health 148, Mana 37, Armor 46, Attack 92, Money 1050.
 [0147]Centaur do AXE_E buff.
 [0147]Centaur clean AXE_E buff.
-[0147]Centaur do physical attack buff.
-[0147]Centaur clean physical attack buff.
-[0147]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0147]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0147]Mogul Kahn clean AXE_E buff.
 [0147]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0148]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0148]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0148]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0149]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0149]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0149]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0150]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0150]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0150]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0151]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0151]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0151]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0152]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0152]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0152]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0153]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0153]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0153]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0154]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0154]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0154]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0155]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0155]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0155]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0156]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0156]Centaur: Health 401, Mana 100, Armor 4, Attack 55, Money 75.
 [0156]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0157]Centaur: Health 236, Mana 100, Armor 4, Attack 55, Money 75.
+[0156]Mogul Kahn physical attack Centaur, make 74 damage.
+[0157]Centaur do physical attack buff.
+[0157]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0157]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0157]Mogul Kahn physical attack Centaur, make 74 damage.
 [0158]Centaur do physical attack buff.
-[0158]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0158]Centaur clean physical attack buff.
+[0158]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0158]Mogul Kahn: Health 148, Mana 37, Armor 6, Attack 92, Money 1050.
-[0159]Centaur do physical attack buff.
-[0159]Centaur clean physical attack buff.
-[0159]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0159]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0159]Centaur physical attack Mogul Kahn, make 40 damage.
 [0159]Mogul Kahn do physical attack buff.
 [0159]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
 [0159]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
-[0160]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0160]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0160]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0161]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0161]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0161]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0162]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0162]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0162]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0163]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0163]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0163]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0164]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0164]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0164]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0165]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0165]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0165]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0166]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0166]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0166]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0167]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0167]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0167]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0168]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0168]Centaur: Health 327, Mana 100, Armor 4, Attack 55, Money 75.
 [0168]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0169]Centaur: Health 162, Mana 100, Armor 4, Attack 55, Money 75.
+[0168]Mogul Kahn physical attack Centaur, make 74 damage.
+[0169]Centaur do physical attack buff.
+[0169]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0169]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0169]Mogul Kahn physical attack Centaur, make 74 damage.
 [0170]Centaur do physical attack buff.
-[0170]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0170]Centaur clean physical attack buff.
+[0170]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0170]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0171]Centaur do physical attack buff.
-[0171]Centaur clean physical attack buff.
-[0171]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0171]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0171]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0172]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0172]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0172]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0173]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0173]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0173]Mogul Kahn: Health 108, Mana 37, Armor 6, Attack 92, Money 1050.
-[0174]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0174]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0174]Centaur physical attack Mogul Kahn, make 40 damage.
 [0174]Mogul Kahn do physical attack buff.
 [0174]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
 [0174]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
-[0175]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0175]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0175]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0176]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0176]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0176]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0177]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0177]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0177]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0178]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0178]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0178]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0179]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0179]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0179]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0180]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0180]Centaur: Health 253, Mana 100, Armor 4, Attack 55, Money 75.
 [0180]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0181]Centaur: Health 88, Mana 100, Armor 4, Attack 55, Money 75.
+[0180]Mogul Kahn physical attack Centaur, make 74 damage.
+[0181]Centaur do physical attack buff.
+[0181]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0181]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0181]Mogul Kahn physical attack Centaur, make 74 damage.
 [0182]Centaur do physical attack buff.
-[0182]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0182]Centaur clean physical attack buff.
+[0182]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0182]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0183]Centaur do physical attack buff.
-[0183]Centaur clean physical attack buff.
-[0183]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0183]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0183]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0184]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0184]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0184]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0185]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0185]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0185]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0186]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0186]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0186]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0187]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0187]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0187]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0188]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0188]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0188]Mogul Kahn: Health 68, Mana 37, Armor 6, Attack 92, Money 1050.
-[0189]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
+[0189]Centaur: Health 179, Mana 100, Armor 4, Attack 55, Money 75.
 [0189]Centaur physical attack Mogul Kahn, make 40 damage.
 [0189]Mogul Kahn do physical attack buff.
 [0189]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
-[0189]Mogul Kahn use AXE_X faild, ERROR CODE: 8200.
+[0189]Mogul Kahn use AXE_X make 165 damage to Centaur.
+[0189]Mogul Kahn use AXE_X OK.
 [0190]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
 [0190]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
 [0191]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
 [0191]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
 [0192]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
 [0192]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
-[0193]Centaur: Health 14, Mana 100, Armor 4, Attack 55, Money 75.
-[0193]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1050.
-[0193]Mogul Kahn physical attack Centaur, make 74 damage.
-[0194]Centaur is dead!
-[0194]Mogul Kahn killed Centaur!
-[0194]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1125.
-[0195]Clean Centaur.
-[0195]Clean Earth Shaker.
-[0195]Clean Mogul Kahn.
-[0195]=====BATTLE OVER=====
+[0192]Mogul Kahn physical attack Centaur, make 74 damage.
+[0193]Centaur is dead!
+[0193]Mogul Kahn killed Centaur!
+[0193]Mogul Kahn: Health 28, Mana 37, Armor 6, Attack 92, Money 1125.
+[0194]Clean Centaur.
+[0194]Clean Earth Shaker.
+[0194]Clean Mogul Kahn.
+[0194]=====BATTLE OVER=====
