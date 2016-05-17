@@ -336,6 +336,7 @@ int es_c(LIFE_S *self)
         (*enemy)->cur_hmaa.health -= damage;
         enemy++;
     }
+    /* thanks hordemark from CSDN, I forgot free all_enemy. */
     DOTA_FREE(all_enemy);
     (void)es_a(self);
     return DOTA_SUCCESS;
