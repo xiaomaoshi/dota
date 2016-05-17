@@ -274,7 +274,7 @@ int es_a(LIFE_S *self)
         add_buff_node(buff_node, &((*enemy)->buff_list));
         enemy++;
     }
-   DOTA_FREE(all_enemy);
+    DOTA_FREE(all_enemy);
     return DOTA_SUCCESS;
 }
 
@@ -336,6 +336,7 @@ int es_c(LIFE_S *self)
         (*enemy)->cur_hmaa.health -= damage;
         enemy++;
     }
+    DOTA_FREE(all_enemy);
     (void)es_a(self);
     return DOTA_SUCCESS;
 }
